@@ -7,7 +7,9 @@ Being infected by Covid, my throat could't afford any vibration. Typing all the 
 # Feature
 - memorize 10 previous input records
 - either type or choose from the previous records
+- use invisible files to store records. If you have the option "see the invisible files" on, use [the other version](https://github.com/stanleyshen2003/speak-male)
+or put it into a folder so that your desktop wouldn't become messy.
 
 # How to use
-- download all the files into a folder
+- download the .exe
 - click on app.exe
