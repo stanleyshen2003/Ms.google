@@ -10,6 +10,8 @@ Being infected by Covid, my throat could't afford any vibration. Typing all the 
 - use invisible files to store records. If you have the option "see the invisible files" on, use [the other version](https://github.com/stanleyshen2003/speak-male)
 or put it into a folder so that your desktop wouldn't become messy.
 
+![image](https://user-images.githubusercontent.com/80504001/228620079-1e35f026-fba2-4844-9a18-287221e500bd.png)
+
 # How to use
 - download the .exe
 - click on app.exe
